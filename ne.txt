@@ -1,6 +1,10 @@
 this is a new file
 i made some modifications before committing
 and more changes
+and now
+wait a minute
+to see status
+
 
 
 
